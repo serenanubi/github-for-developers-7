@@ -1,4 +1,9 @@
 ## Serena Anubi
-###### Clearwater, FL
-###### Sesame balls
-###### Dancing
+
+**Where you from?** Clearwater, FL
+
+**Favorite Food** Sesame balls
+
+**Hobby** Dancing
+
+**Favorite color** Blue
