@@ -7,3 +7,5 @@
 **Hobby** Dancing
 
 **Favorite color** Blue
+
+**Relationship status** Married
